@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BookStore Website - PHP Edition
 
 A beautiful, modern, and fully functional online bookstore website built with PHP and MySQL.
@@ -225,4 +226,8 @@ Responsive design using CSS Grid and Flexbox.
 ---
 
 **Version:** 1.0
-**Last Updated:** December 2024
+**Last Updated:** December 2025
+=======
+# bookstore_database
+This project was conducted to provide a better understanding of how a sample database structure is used in real-world environments.
+>>>>>>> 04c5db92c354a00de8dd22c7117dc7946a65baf5
